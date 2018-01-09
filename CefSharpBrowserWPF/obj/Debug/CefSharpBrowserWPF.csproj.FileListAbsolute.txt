@@ -1,0 +1,1 @@
+C:\Users\Broadcaster2\Desktop\CefSharpBrowserWPF\CefSharpBrowserWPF\bin\Debug\CefSharpBrowserWPF.exe.config
